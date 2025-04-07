@@ -25,7 +25,7 @@
 **    - Provides: Getters/setters for `likeCount`.
 
 **
-** 5. main(): The main function instantiates `Twitter` and `Instagram` objects
+** 5. main(): 
 **    It tests the core functionalities:
 **    - Object creation with different privacy settings.
 **    - Adding followers and followed users.
